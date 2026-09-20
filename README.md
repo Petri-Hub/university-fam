@@ -29,11 +29,14 @@
 │   ├── Applied Logic
 │   ├── Computer Architecture
 │   └── Multimedia Systems
-└── Third Semester
-    ├── Algorithms II      # includes the notes and C exercises for its proficiency exam
-    ├── Digital Systems
-    ├── Extension Project
-    └── Paradigms
+├── Third Semester
+│   ├── Algorithms II      # includes the notes and C exercises for its proficiency exam
+│   ├── Digital Systems
+│   ├── Extension Project
+│   └── Paradigms
+└── Sixth Semester
+    ├── Databases
+    └── Distributed Systems
 ```
 ## Technologies
 
